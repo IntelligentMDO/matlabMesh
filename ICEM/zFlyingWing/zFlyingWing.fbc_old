@@ -1,0 +1,10 @@
+# family_boco file written by ICEM CFD by jiboqian on Mon Apr 08 14:04:50 中国标准时间 2024
+## solver 
+"PLANE"
+"BOI_FLUID"
+"IN"
+"SYMM"
+"SUBLINE_01"
+"SUBLINE_12"
+"SUBLINE_23"
+"FLUID"
