@@ -2,4 +2,4 @@
 clear all;
 clc;
 
-Main_CFD('K:\matlabMesh',1);
+Main_CFD(pwd,1);
