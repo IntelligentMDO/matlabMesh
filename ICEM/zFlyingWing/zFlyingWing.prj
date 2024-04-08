@@ -1,9 +1,9 @@
 # ICEM CFD Project Settings
-# Saved by jiboqian on SERVER0 on Mon Apr 08 14:04:39 中国标准时间 2024
+# Saved by jiboqian on SERVER0 on Tue Apr 09 0:57:02 中国标准时间 2024
 # ANSYS ICEM CFD Environment - version 21.2 - Release date: May 17 2021
 
 array set file_name {
-tetin K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing.tin
-settings K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing.prj
-blocking K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing.blk
+tetin K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing.tin
+settings K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing.prj
+blocking K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing.blk
 }

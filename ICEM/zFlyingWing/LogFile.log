@@ -1,11 +1,11 @@
 Customer number is 20120530
-"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_PLANE.tin}" "K:/matlabMesh/Catia/zFlyingWing_PLANE.model"
+"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_PLANE.tin}" "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_PLANE.model"
 ICEM CFD 21.2 (C4TETIN V2.1.4), compiled Mon May 17 13:36:33 EDT 2021
 (C) 2000-2004 by ICEM CFD Engineering
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_PLANE.tin
-Read model/export file "K:/matlabMesh/Catia/zFlyingWing_PLANE.model"
-Process model zFlyingWing_PLANE, file K:/matlabMesh/Catia/zFlyingWing_PLANE.model
-CATIA Input: K:/matlabMesh/Catia/zFlyingWing_PLANE.model (217 Records)
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_PLANE.tin
+Read model/export file "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_PLANE.model"
+Process model zFlyingWing_PLANE, file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_PLANE.model
+CATIA Input: K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_PLANE.model (217 Records)
 Encoding: ASCII, IEEE-754
 Process Parent Entity Chain 2 : 3 : 1+0
 Process Master Entity Chain 3 : 208 : 710+0
@@ -30,24 +30,24 @@ Relimit Curves : 0
 Run postprocessing filter : 0
 Create entity and family names : 204
 Write TETIN File : 35
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_PLANE.tin
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_PLANE.tin
     Axis : 1
     Surface (define_surface) : 34
       Surface (define_surface .. loop) : 34
 Time used: 0:00 [min:sec]
-Memory used: 4125 kBytes
-Finished model file K:/matlabMesh/Catia/zFlyingWing_PLANE.model
+Memory used: 5063 kBytes
+Finished model file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_PLANE.model
 Time used: 0:00 [min:sec]
-Memory used: 4110 kBytes
+Memory used: 5090 kBytes
 
-Loading geometry file "K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_PLANE.tin"
-"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_BOI_FLUID.tin}" "K:/matlabMesh/Catia/zFlyingWing_BOI_FLUID.model"
+Loading geometry file "K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_PLANE.tin"
+"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_BOI_FLUID.tin}" "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_BOI_FLUID.model"
 ICEM CFD 21.2 (C4TETIN V2.1.4), compiled Mon May 17 13:36:33 EDT 2021
 (C) 2000-2004 by ICEM CFD Engineering
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_BOI_FLUID.tin
-Read model/export file "K:/matlabMesh/Catia/zFlyingWing_BOI_FLUID.model"
-Process model zFlyingWing_BOI_FLUID, file K:/matlabMesh/Catia/zFlyingWing_BOI_FLUID.model
-CATIA Input: K:/matlabMesh/Catia/zFlyingWing_BOI_FLUID.model (14 Records)
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_BOI_FLUID.tin
+Read model/export file "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_BOI_FLUID.model"
+Process model zFlyingWing_BOI_FLUID, file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_BOI_FLUID.model
+CATIA Input: K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_BOI_FLUID.model (14 Records)
 Encoding: ASCII, IEEE-754
 Process Parent Entity Chain 2 : 3 : 1+0
 Process Master Entity Chain 3 : 5 : 9+0
@@ -72,24 +72,24 @@ Relimit Curves : 0
 Run postprocessing filter : 0
 Create entity and family names : 5
 Write TETIN File : 2
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_BOI_FLUID.tin
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_BOI_FLUID.tin
     Axis : 1
     Surface (define_surface) : 1
       Surface (define_surface .. loop) : 1
 Time used: 0:00 [min:sec]
-Memory used: 490 kBytes
-Finished model file K:/matlabMesh/Catia/zFlyingWing_BOI_FLUID.model
+Memory used: 491 kBytes
+Finished model file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_BOI_FLUID.model
 Time used: 0:00 [min:sec]
-Memory used: 475 kBytes
+Memory used: 477 kBytes
 
-Loading geometry file "K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_BOI_FLUID.tin"
-"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_IN.tin}" "K:/matlabMesh/Catia/zFlyingWing_IN.model"
+Loading geometry file "K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_BOI_FLUID.tin"
+"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_IN.tin}" "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_IN.model"
 ICEM CFD 21.2 (C4TETIN V2.1.4), compiled Mon May 17 13:36:33 EDT 2021
 (C) 2000-2004 by ICEM CFD Engineering
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_IN.tin
-Read model/export file "K:/matlabMesh/Catia/zFlyingWing_IN.model"
-Process model zFlyingWing_IN, file K:/matlabMesh/Catia/zFlyingWing_IN.model
-CATIA Input: K:/matlabMesh/Catia/zFlyingWing_IN.model (14 Records)
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_IN.tin
+Read model/export file "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_IN.model"
+Process model zFlyingWing_IN, file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_IN.model
+CATIA Input: K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_IN.model (14 Records)
 Encoding: ASCII, IEEE-754
 Process Parent Entity Chain 2 : 3 : 1+0
 Process Master Entity Chain 3 : 5 : 9+0
@@ -114,24 +114,24 @@ Relimit Curves : 0
 Run postprocessing filter : 0
 Create entity and family names : 5
 Write TETIN File : 2
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_IN.tin
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_IN.tin
     Axis : 1
     Surface (define_surface) : 1
       Surface (define_surface .. loop) : 1
 Time used: 0:00 [min:sec]
-Memory used: 490 kBytes
-Finished model file K:/matlabMesh/Catia/zFlyingWing_IN.model
+Memory used: 494 kBytes
+Finished model file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_IN.model
 Time used: 0:00 [min:sec]
-Memory used: 474 kBytes
+Memory used: 469 kBytes
 
-Loading geometry file "K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_IN.tin"
-"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SYMM.tin}" "K:/matlabMesh/Catia/zFlyingWing_SYMM.model"
+Loading geometry file "K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_IN.tin"
+"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SYMM.tin}" "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SYMM.model"
 ICEM CFD 21.2 (C4TETIN V2.1.4), compiled Mon May 17 13:36:33 EDT 2021
 (C) 2000-2004 by ICEM CFD Engineering
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SYMM.tin
-Read model/export file "K:/matlabMesh/Catia/zFlyingWing_SYMM.model"
-Process model zFlyingWing_SYMM, file K:/matlabMesh/Catia/zFlyingWing_SYMM.model
-CATIA Input: K:/matlabMesh/Catia/zFlyingWing_SYMM.model (14 Records)
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SYMM.tin
+Read model/export file "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SYMM.model"
+Process model zFlyingWing_SYMM, file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SYMM.model
+CATIA Input: K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SYMM.model (14 Records)
 Encoding: ASCII, IEEE-754
 Process Parent Entity Chain 2 : 3 : 1+0
 Process Master Entity Chain 3 : 4 : 8+0
@@ -156,24 +156,24 @@ Relimit Curves : 0
 Run postprocessing filter : 1
 Create entity and family names : 5
 Write TETIN File : 2
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SYMM.tin
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SYMM.tin
     Axis : 1
     Surface (define_surface) : 1
       Surface (define_surface .. loop) : 1
 Time used: 0:00 [min:sec]
-Memory used: 2363 kBytes
-Finished model file K:/matlabMesh/Catia/zFlyingWing_SYMM.model
+Memory used: 2362 kBytes
+Finished model file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SYMM.model
 Time used: 0:00 [min:sec]
-Memory used: 2345 kBytes
+Memory used: 2348 kBytes
 
-Loading geometry file "K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SYMM.tin"
-"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_01.tin}" "K:/matlabMesh/Catia/zFlyingWing_SUBLINE_01.model"
+Loading geometry file "K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SYMM.tin"
+"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_01.tin}" "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_01.model"
 ICEM CFD 21.2 (C4TETIN V2.1.4), compiled Mon May 17 13:36:33 EDT 2021
 (C) 2000-2004 by ICEM CFD Engineering
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_01.tin
-Read model/export file "K:/matlabMesh/Catia/zFlyingWing_SUBLINE_01.model"
-Process model zFlyingWing_SUBLINE_01, file K:/matlabMesh/Catia/zFlyingWing_SUBLINE_01.model
-CATIA Input: K:/matlabMesh/Catia/zFlyingWing_SUBLINE_01.model (1268 Records)
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_01.tin
+Read model/export file "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_01.model"
+Process model zFlyingWing_SUBLINE_01, file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_01.model
+CATIA Input: K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_01.model (1268 Records)
 Encoding: ASCII, IEEE-754
 Process Parent Entity Chain 2 : 3 : 1+0
 Process Master Entity Chain 3 : 1259 : 1284+0
@@ -198,24 +198,24 @@ Relimit Curves : 0
 Run postprocessing filter : 0
 Create entity and family names : 910
 Write TETIN File : 910
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_01.tin
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_01.tin
     Axis : 1
     Prescribed Point {prescribed_point) : 534
     Curve (define_curve) : 375
 Time used: 0:00 [min:sec]
-Memory used: 4524 kBytes
-Finished model file K:/matlabMesh/Catia/zFlyingWing_SUBLINE_01.model
+Memory used: 5621 kBytes
+Finished model file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_01.model
 Time used: 0:00 [min:sec]
-Memory used: 4508 kBytes
+Memory used: 5606 kBytes
 
-Loading geometry file "K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_01.tin"
-"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_12.tin}" "K:/matlabMesh/Catia/zFlyingWing_SUBLINE_12.model"
+Loading geometry file "K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_01.tin"
+"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_12.tin}" "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_12.model"
 ICEM CFD 21.2 (C4TETIN V2.1.4), compiled Mon May 17 13:36:33 EDT 2021
 (C) 2000-2004 by ICEM CFD Engineering
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_12.tin
-Read model/export file "K:/matlabMesh/Catia/zFlyingWing_SUBLINE_12.model"
-Process model zFlyingWing_SUBLINE_12, file K:/matlabMesh/Catia/zFlyingWing_SUBLINE_12.model
-CATIA Input: K:/matlabMesh/Catia/zFlyingWing_SUBLINE_12.model (1068 Records)
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_12.tin
+Read model/export file "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_12.model"
+Process model zFlyingWing_SUBLINE_12, file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_12.model
+CATIA Input: K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_12.model (1068 Records)
 Encoding: ASCII, IEEE-754
 Process Parent Entity Chain 2 : 3 : 1+0
 Process Master Entity Chain 3 : 1059 : 1082+0
@@ -240,24 +240,24 @@ Relimit Curves : 0
 Run postprocessing filter : 0
 Create entity and family names : 796
 Write TETIN File : 796
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_12.tin
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_12.tin
     Axis : 1
     Prescribed Point {prescribed_point) : 508
     Curve (define_curve) : 287
 Time used: 0:00 [min:sec]
-Memory used: 7021 kBytes
-Finished model file K:/matlabMesh/Catia/zFlyingWing_SUBLINE_12.model
+Memory used: 6206 kBytes
+Finished model file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_12.model
 Time used: 0:00 [min:sec]
-Memory used: 7006 kBytes
+Memory used: 6234 kBytes
 
-Loading geometry file "K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_12.tin"
-"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_23.tin}" "K:/matlabMesh/Catia/zFlyingWing_SUBLINE_23.model"
+Loading geometry file "K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_12.tin"
+"F:/ANSYS Inc/v212/icemcfd/win64_amd/bin/c4tetin" -tcl --overwrite --triangulation-tolerance=1e-4 --one-tetin-file="{K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_23.tin}" "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_23.model"
 ICEM CFD 21.2 (C4TETIN V2.1.4), compiled Mon May 17 13:36:33 EDT 2021
 (C) 2000-2004 by ICEM CFD Engineering
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_23.tin
-Read model/export file "K:/matlabMesh/Catia/zFlyingWing_SUBLINE_23.model"
-Process model zFlyingWing_SUBLINE_23, file K:/matlabMesh/Catia/zFlyingWing_SUBLINE_23.model
-CATIA Input: K:/matlabMesh/Catia/zFlyingWing_SUBLINE_23.model (666 Records)
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_23.tin
+Read model/export file "K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_23.model"
+Process model zFlyingWing_SUBLINE_23, file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_23.model
+CATIA Input: K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_23.model (666 Records)
 Encoding: ASCII, IEEE-754
 Process Parent Entity Chain 2 : 3 : 1+0
 Process Master Entity Chain 3 : 657 : 668+0
@@ -282,29 +282,29 @@ Relimit Curves : 0
 Run postprocessing filter : 0
 Create entity and family names : 462
 Write TETIN File : 462
-TETIN Output: K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_23.tin
+TETIN Output: K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_23.tin
     Axis : 1
     Prescribed Point {prescribed_point) : 254
     Curve (define_curve) : 207
 Time used: 0:00 [min:sec]
-Memory used: 3287 kBytes
-Finished model file K:/matlabMesh/Catia/zFlyingWing_SUBLINE_23.model
+Memory used: 3558 kBytes
+Finished model file K:/Paper_2/matlabMesh-main/Catia/zFlyingWing_SUBLINE_23.model
 Time used: 0:00 [min:sec]
-Memory used: 3272 kBytes
+Memory used: 3543 kBytes
 
-Loading geometry file "K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing_SUBLINE_23.tin"
+Loading geometry file "K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing_SUBLINE_23.tin"
 Warning:creating part FLUID
-Writing tetin file K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing.tin ...
+Writing tetin file K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing.tin ...
 saving model ...
 Done saving tetin file.
-Writing blocking file K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing.blk ...
+Writing blocking file K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing.blk ...
 Done saving blocking file.
-Loading geometry file "K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing.tin"
-Loading domain "K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing.uns" ...
+Loading geometry file "K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing.tin"
+Loading domain "K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing.uns" ...
 9 part(s)
-Min = 0.0339811, max = 0.999976, mean = 0.872207607001
+Min = 0.38648, max = 0.999976, mean = 0.874783724254
 2709504 elements with the "Determinant" diagnostic
 Solver Ansys Fluent supports unstructured mesh.
 Current solver is Ansys Fluent
 Solver Ansys Fluent supports unstructured mesh.
-Saved family boco data to K:/matlabMesh/ICEM/zFlyingWing/zFlyingWing.fbc
+Saved family boco data to K:/Paper_2/matlabMesh-main/ICEM/zFlyingWing/zFlyingWing.fbc
