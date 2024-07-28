@@ -18,14 +18,14 @@ MAC_Length = Data_Geometry.MAC_Length;
 ScaleRate = Data_Geometry.ScaleRate;
 
 Dir_Sub_ICEM = [Dir_ICEM,'\',FileName_Catia];
-if exist(Dir_Sub_ICEM,'dir')
-    for i = 1:3
-        dos(['Recycle.exe ',Dir_Sub_ICEM]);
-    end
+% if exist(Dir_Sub_ICEM,'dir')
+%     for i = 1:3
+%         dos(['Recycle.exe ',Dir_Sub_ICEM]);
+%     end
+%     mkdir(Dir_Sub_ICEM);
+% else
     mkdir(Dir_Sub_ICEM);
-else
-    mkdir(Dir_Sub_ICEM);
-end
+% end
 
 
 %% Çó½â_¸½Ãæ²ã
